@@ -6,7 +6,9 @@ import uuid
 
 urls = {
 	'microsoft': 'https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js',
-	'google': 'https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'
+	'google': 'https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js',
+	'jquery': 'https://code.jquery.com/jquery-2.1.4.min.js',
+	'cdnjs': 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js',
 }
 
 if __name__ == "__main__":
